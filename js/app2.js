@@ -7,27 +7,27 @@ export const playList = [
       song: "../assets/sound/Y2meta.app - Skillet - _The Resistance_ [Official Lyric Video] (128 kbps).mp3"
     },
     {
-      title: 'Song 2',
-      artist: 'Artist 2',
-      img: 'ruta de la imagen de la canción',
-      song: 'ruta de la cancion'
+      title: 'Feel Invincible',
+      artist: 'Skillet',
+      img: '../assets/images/Fell_invencible.png',
+      song: '../assets/sound/Y2meta.app - Skillet - _Feel Invincible_ [Official Music Video] (128 kbps).mp3'
     },
     {
-      title: 'Song 3',
-      artist: 'Artist 3',
-      img: 'ruta de la imagen de la canción',
-      song: 'ruta de la cancion'
+      title: 'Anchor',
+      artist: 'Skillet',
+      img: '../assets/images/anchor.png',
+      song: '../assets/sound/Y2meta.app - Anchor (128 kbps).mp3'
     },
     {
-      title: 'Song 4',
-      artist: 'Artist 4',
-      img: 'ruta de la imagen de la canción',
-      song: 'ruta de la cancion'
+      title: 'Save me',
+      artist: 'Skillet',
+      img: '../assets/images/save_me.png',
+      song: '../assets/sound/Y2meta.app - Skillet - Save Me (Official Music Video) (128 kbps).mp3'
     },
     {
-      title: 'Song 5',
-      artist: 'Artist 5',
-      img: 'ruta de la imagen de la canción',
-      song: 'ruta de la cancion'
+      title: 'Victorious',
+      artist: 'Skillet',
+      img: '../assets/images/victorious.png',
+      song: '../assets/sound/Y2meta.app - Skillet - Victorious [Official Audio] (128 kbps).mp3'
     },
   ]
